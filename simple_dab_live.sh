@@ -35,4 +35,4 @@ mkdir -p ~/bin || exit 1
 echo dablin_gtk -d eti-cmdline-rtlsdr -D eti-cmdline > ~/bin/dablin_calling || exit 1
 chmod +x ~/bin/dablin_calling || exit 1
 
-echo ----- Script successfully finished - just call "dablin_calling"! -----
+echo ----- Script successfully finished - just call "dablin_calling" after the next login! -----

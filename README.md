@@ -15,9 +15,9 @@ Open a console window (press Ctrl+Alt+T) and just type:
 Note that root rights will be required to install packages and the
 software itself.
 
-After installation, you can call DABlin with:
+After installation, you can call DABlin after the next login with just:
 
-    ~/bin/dablin_calling
+    dablin_calling
 
 To limit the amount of displayed channels, you can edit the file
 `~/bin/dablin_calling` and append something like e.g. ` -C 5C,11C,11D`.
