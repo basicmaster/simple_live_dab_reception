@@ -3,8 +3,8 @@
 A (DVB-T) USB stick with the famous Realtek RTL2832U chipset is needed.
 
 Just a simple script that installs:
-- DABlin (`next` branch)
-- eti-cmdline (for RTLSDR sticks)
+- [DABlin](https://github.com/Opendigitalradio/dablin) (`next` branch)
+- `eti-cmdline` (for RTLSDR sticks) from [eti-stuff](https://github.com/JvanKatwijk/eti-stuff)
 
 Tested with Ubuntu MATE 17.10.
 
